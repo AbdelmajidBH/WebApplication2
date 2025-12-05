@@ -1,0 +1,50 @@
+@WebApplication2_HostAddress = http://localhost:5149
+@id=12345zz
+
+GET {{WebApplication2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{WebApplication2_HostAddress}}/api/books
+Accept: application/json
+
+###
+GET {{WebApplication2_HostAddress}}/api/books/{{id}}
+Accept: application/json
+
+###
+GET {{WebApplication2_HostAddress}}/api/books/orders/{{id}}
+Accept: application/json
+
+###
+POST {{WebApplication2_HostAddress}}/api/books
+Content-Type: application/json
+
+ {
+   "Name": "The Pragmatic Programmer",
+   "Price": 49.99,
+   "Category": "Computers",
+   "Author": "Andy Hunt"
+ }
+
+ ###
+ DELETE {{WebApplication2_HostAddress}}/api/Books/{{id}}
+
+
+  ###
+
+  ###
+GET {{WebApplication2_HostAddress}}/api/books/configs
+Accept: application/json
+
+
+
+ ###
+GET {{WebApplication2_HostAddress}}/friends/cursor?pageSize=2
+
+
+ ###
+GET {{WebApplication2_HostAddress}}/friends/cursor/header?pageSize=2&cursor=6931a7dfa5e908829463b113
+
+ ###
+GET {{WebApplication2_HostAddress}}/friends?page=4&pageSize=2&minAge=18
