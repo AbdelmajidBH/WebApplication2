@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "69307367a58cedd66e63b112"
+  },
+  "firstName": "Alex",
+  "lastName": "Morgan",
+  "age": 34,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "Hypertension",
+      "treatment": "Lisinopril 10mg daily",
+      "diagnosedDate": "2022-03-15"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307398a58cedd66e63b113"
+  },
+  "firstName": "Sarah",
+  "lastName": "Chen",
+  "age": 28,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Asthma",
+      "treatment": "Albuterol inhaler as needed",
+      "diagnosedDate": "2020-07-22"
+    },
+    {
+      "disease": "Seasonal allergies",
+      "treatment": "Cetirizine 10mg daily",
+      "diagnosedDate": "2021-04-10"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307398a58cedd66e63b114"
+  },
+  "firstName": "Marcus",
+  "lastName": "Williams",
+  "age": 45,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "Type 2 Diabetes",
+      "treatment": "Metformin 500mg twice daily",
+      "diagnosedDate": "2019-11-03"
+    },
+    {
+      "disease": "High cholesterol",
+      "treatment": "Atorvastatin 20mg daily",
+      "diagnosedDate": "2020-02-18"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307398a58cedd66e63b115"
+  },
+  "firstName": "Emma",
+  "lastName": "Rodriguez",
+  "age": 52,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Osteoarthritis",
+      "treatment": "Physical therapy, NSAIDs as needed",
+      "diagnosedDate": "2021-09-12"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b112"
+  },
+  "firstName": "Emma",
+  "lastName": "Rodriguez",
+  "age": 52,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Osteoarthritis",
+      "treatment": "Physical therapy, NSAIDs as needed",
+      "diagnosedDate": "2021-09-12"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b113"
+  },
+  "firstName": "James",
+  "lastName": "Thompson",
+  "age": 41,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "Migraine",
+      "treatment": "Sumatriptan 50mg as needed",
+      "diagnosedDate": "2018-05-20"
+    },
+    {
+      "disease": "Anxiety disorder",
+      "treatment": "Sertraline 50mg daily, CBT",
+      "diagnosedDate": "2020-08-14"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b114"
+  },
+  "firstName": "Priya",
+  "lastName": "Patel",
+  "age": 37,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Hypothyroidism",
+      "treatment": "Levothyroxine 75mcg daily",
+      "diagnosedDate": "2019-01-25"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b115"
+  },
+  "firstName": "David",
+  "lastName": "Kim",
+  "age": 29,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "GERD",
+      "treatment": "Omeprazole 20mg daily",
+      "diagnosedDate": "2022-06-08"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b116"
+  },
+  "firstName": "Isabella",
+  "lastName": "Santos",
+  "age": 48,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Rheumatoid arthritis",
+      "treatment": "Methotrexate 15mg weekly, Folic acid",
+      "diagnosedDate": "2017-10-30"
+    },
+    {
+      "disease": "Vitamin D deficiency",
+      "treatment": "Vitamin D3 2000 IU daily",
+      "diagnosedDate": "2021-03-17"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b117"
+  },
+  "firstName": "Michael",
+  "lastName": "O'Brien",
+  "age": 55,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "Coronary artery disease",
+      "treatment": "Aspirin 81mg daily, Metoprolol 50mg daily",
+      "diagnosedDate": "2020-12-05"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b118"
+  },
+  "firstName": "Yuki",
+  "lastName": "Tanaka",
+  "age": 33,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Depression",
+      "treatment": "Escitalopram 10mg daily, Therapy",
+      "diagnosedDate": "2021-07-19"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b119"
+  },
+  "firstName": "Oliver",
+  "lastName": "Jensen",
+  "age": 26,
+  "intercontinental": false,
+  "history": [
+    {
+      "disease": "Common cold",
+      "treatment": "Rest, fluids, acetaminophen as needed",
+      "diagnosedDate": "2024-11-28"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69307457c1495699a163b11a"
+  },
+  "firstName": "Sophie",
+  "lastName": "Dubois",
+  "age": 31,
+  "intercontinental": true,
+  "history": [
+    {
+      "disease": "Common cold",
+      "treatment": "Rest, vitamin C, decongestants",
+      "diagnosedDate": "2024-12-01"
+    }
+  ]
+}]

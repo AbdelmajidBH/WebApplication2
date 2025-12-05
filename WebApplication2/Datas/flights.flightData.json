@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "693051dbd67a04f7fe63b117"
+  },
+  "departureAirport": "MUC",
+  "arrivalAirport": "SFO",
+  "aircraft": "Airbus A380",
+  "distance": 12000,
+  "intercontinental": true
+},
+{
+  "_id": {
+    "$oid": "69305c06d67a04f7fe63b11a"
+  },
+  "departureAirport": "LHR",
+  "arrivalAirport": "TXL",
+  "aircraft": "Airbus A320",
+  "distance": 950,
+  "intercontinental": false
+},
+{
+  "_id": {
+    "$oid": "69305e20d67a04f7fe63b11b"
+  },
+  "departureAirport": "MUC",
+  "arrivalAirport": "SFO",
+  "aircraft": "Airbus A380",
+  "distance": 12000,
+  "intercontinental": true
+},
+{
+  "_id": {
+    "$oid": "69305e20d67a04f7fe63b11c"
+  },
+  "departureAirport": "LHR",
+  "arrivalAirport": "TXL",
+  "aircraft": "Airbus A320",
+  "distance": 1000,
+  "intercontinental": false
+}]
